@@ -1,0 +1,22 @@
+{
+  "name": "plunner",
+  "version": "1.0.0",
+  "description": "A meeting planner for businesses with automation and optimization in mind",
+  "main": "gulp-file.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsd-meetme/website.git"
+  },
+  "author": "Giorgio Pea, Jean Barre, Claudio Cardinale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsd-meetme/website/issues"
+  },
+  "homepage": "http://plunner.com"
+}
