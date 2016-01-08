@@ -14,7 +14,7 @@
     "url": "git+https://github.com/dsd-meetme/website.git"
   },
   "author": "Giorgio Pea, Jean Barre, Claudio Cardinale",
-  "license": "ISC",
+  "license": "GPL-2.0",
   "bugs": {
     "url": "https://github.com/dsd-meetme/website/issues"
   },
