@@ -9,6 +9,9 @@
 .font_bold {
     font-weight: 500 !important; }
 
+.font-mont {
+    font-family: "Montserrat";
+}
 .backgroundLightBlue {
     background: #457fca;
     /* fallback for old browsers */
@@ -33,3 +36,18 @@ a {
     text-decoration: none; }
 a:hover {
     text-decoration: none; }
+
+.instructions p, a {
+    font-size: 18px;
+    font-weight: 300;
+}
+.instructions a {
+    color: white;
+    padding: 6px 12px;
+    border: 1px solid white;
+    margin-right: 15px;
+}
+.instructions a:hover {
+    background-color: white;
+    color: #457fca;
+}
