@@ -51,3 +51,14 @@ a:hover {
     background-color: white;
     color: #457fca;
 }
+
+@media (max-width: 500px){
+    .instructions a {
+        display: block;
+        margin-bottom: 15px;
+    }
+    .ses a {
+        display: inline-block !important;
+        margin-bottom: 0;
+    }
+}
